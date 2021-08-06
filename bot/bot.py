@@ -31,7 +31,7 @@ async def off(ctx, extension = None):
         bot.unload_extension(f'cogs.{extension}')
 
 
-for filename in os.listdir('./cogs'):
+for filename in os.listdir('C:/Users/Romidamaru/source/repos/Discord-Bot/bot/cogs'):
 	if filename.endswith('.py'):
 		bot.load_extension(f'cogs.{filename[:-3]}')
 
