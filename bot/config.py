@@ -1,5 +1,5 @@
 settings = {
-	'TOKEN': 'NzYwNDE3MzY0NTgzMjUxOTk4.X3Lv2w.qbpkpLPLMpeQe1OBMPtUAEXCsi4',
+	'TOKEN': 'token',
 	'BOT_NAME': 'Romi',
 	'PREFIX': '-'
 }
